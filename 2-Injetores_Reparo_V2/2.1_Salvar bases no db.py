@@ -2,7 +2,7 @@ import os
 import sqlite3
 import pandas as pd
 
-path = "./bases/"
+path = "./2_bases/"
 files = os.listdir(path)
 df = pd.DataFrame()
 

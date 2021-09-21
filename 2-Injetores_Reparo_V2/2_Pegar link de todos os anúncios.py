@@ -5,7 +5,7 @@ import pandas as pd
 
 # configuracoes iniciais
 url = "https://lista.mercadolivre.com.br/pecas/carros/injecao/injetores/reparo_DisplayType_LF_PriceRange_{inicial}-{final}"
-path_bases = "./bases/"
+path_bases = "./2_bases/"
 
 options = Options()
 options.headless = False
