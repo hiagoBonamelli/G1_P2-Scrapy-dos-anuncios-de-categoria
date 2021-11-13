@@ -1,0 +1,950 @@
+,preco,marca,status
+13287,301,Rio de Janeiro,FAZER
+13288,302,Rio de Janeiro,FAZER
+13289,303,Rio de Janeiro,FAZER
+13290,304,Rio de Janeiro,FAZER
+13291,305,Rio de Janeiro,FAZER
+13292,306,Rio de Janeiro,FAZER
+13293,307,Rio de Janeiro,FAZER
+13294,308,Rio de Janeiro,FAZER
+13295,309,Rio de Janeiro,FAZER
+13296,310,Rio de Janeiro,FAZER
+13297,311,Rio de Janeiro,FAZER
+13298,312,Rio de Janeiro,FAZER
+13299,313,Rio de Janeiro,FAZER
+13300,314,Rio de Janeiro,FAZER
+13301,315,Rio de Janeiro,FAZER
+13302,316,Rio de Janeiro,FAZER
+13303,317,Rio de Janeiro,FAZER
+13304,318,Rio de Janeiro,FAZER
+13305,319,Rio de Janeiro,FAZER
+13306,320,Rio de Janeiro,FAZER
+13307,321,Rio de Janeiro,FAZER
+13308,322,Rio de Janeiro,FAZER
+13309,323,Rio de Janeiro,FAZER
+13310,324,Rio de Janeiro,FAZER
+13311,325,Rio de Janeiro,FAZER
+13312,326,Rio de Janeiro,FAZER
+13313,327,Rio de Janeiro,FAZER
+13314,328,Rio de Janeiro,FAZER
+13315,329,Rio de Janeiro,FAZER
+13316,330,Rio de Janeiro,FAZER
+13317,331,Rio de Janeiro,FAZER
+13318,332,Rio de Janeiro,FAZER
+13319,333,Rio de Janeiro,FAZER
+13320,334,Rio de Janeiro,FAZER
+13321,335,Rio de Janeiro,FAZER
+13322,336,Rio de Janeiro,FAZER
+13323,337,Rio de Janeiro,FAZER
+13324,338,Rio de Janeiro,FAZER
+13325,339,Rio de Janeiro,FAZER
+13326,340,Rio de Janeiro,FAZER
+13327,341,Rio de Janeiro,FAZER
+13328,342,Rio de Janeiro,FAZER
+13329,343,Rio de Janeiro,FAZER
+13330,344,Rio de Janeiro,FAZER
+13331,345,Rio de Janeiro,FAZER
+13332,346,Rio de Janeiro,FAZER
+13333,347,Rio de Janeiro,FAZER
+13334,348,Rio de Janeiro,FAZER
+13335,349,Rio de Janeiro,FAZER
+13336,350,Rio de Janeiro,FAZER
+13337,351,Rio de Janeiro,FAZER
+13338,352,Rio de Janeiro,FAZER
+13339,353,Rio de Janeiro,FAZER
+13340,354,Rio de Janeiro,FAZER
+13341,355,Rio de Janeiro,FAZER
+13342,356,Rio de Janeiro,FAZER
+13343,357,Rio de Janeiro,FAZER
+13344,358,Rio de Janeiro,FAZER
+13345,359,Rio de Janeiro,FAZER
+13346,360,Rio de Janeiro,FAZER
+13347,361,Rio de Janeiro,FAZER
+13348,362,Rio de Janeiro,FAZER
+13349,363,Rio de Janeiro,FAZER
+13350,364,Rio de Janeiro,FAZER
+13351,365,Rio de Janeiro,FAZER
+13352,366,Rio de Janeiro,FAZER
+13353,367,Rio de Janeiro,FAZER
+13354,368,Rio de Janeiro,FAZER
+13355,369,Rio de Janeiro,FAZER
+13356,370,Rio de Janeiro,FAZER
+13357,371,Rio de Janeiro,FAZER
+13358,372,Rio de Janeiro,FAZER
+13359,373,Rio de Janeiro,FAZER
+13360,374,Rio de Janeiro,FAZER
+13361,375,Rio de Janeiro,FAZER
+13362,376,Rio de Janeiro,FAZER
+13363,377,Rio de Janeiro,FAZER
+13364,378,Rio de Janeiro,FAZER
+13365,379,Rio de Janeiro,FAZER
+13366,380,Rio de Janeiro,FAZER
+13367,381,Rio de Janeiro,FAZER
+13368,382,Rio de Janeiro,FAZER
+13369,383,Rio de Janeiro,FAZER
+13370,384,Rio de Janeiro,FAZER
+13371,385,Rio de Janeiro,FAZER
+13372,386,Rio de Janeiro,FAZER
+13373,387,Rio de Janeiro,FAZER
+13374,388,Rio de Janeiro,FAZER
+13375,389,Rio de Janeiro,FAZER
+13376,390,Rio de Janeiro,FAZER
+13377,391,Rio de Janeiro,FAZER
+13378,392,Rio de Janeiro,FAZER
+13379,393,Rio de Janeiro,FAZER
+13380,394,Rio de Janeiro,FAZER
+13381,395,Rio de Janeiro,FAZER
+13382,396,Rio de Janeiro,FAZER
+13383,397,Rio de Janeiro,FAZER
+13384,398,Rio de Janeiro,FAZER
+13385,399,Rio de Janeiro,FAZER
+13386,400,Rio de Janeiro,FAZER
+13387,401,Rio de Janeiro,FAZER
+13388,402,Rio de Janeiro,FAZER
+13389,403,Rio de Janeiro,FAZER
+13390,404,Rio de Janeiro,FAZER
+13391,405,Rio de Janeiro,FAZER
+13392,406,Rio de Janeiro,FAZER
+13393,407,Rio de Janeiro,FAZER
+13394,408,Rio de Janeiro,FAZER
+13395,409,Rio de Janeiro,FAZER
+13396,410,Rio de Janeiro,FAZER
+13397,411,Rio de Janeiro,FAZER
+13398,412,Rio de Janeiro,FAZER
+13399,413,Rio de Janeiro,FAZER
+13400,414,Rio de Janeiro,FAZER
+13401,415,Rio de Janeiro,FAZER
+13402,416,Rio de Janeiro,FAZER
+13403,417,Rio de Janeiro,FAZER
+13404,418,Rio de Janeiro,FAZER
+13405,419,Rio de Janeiro,FAZER
+13406,420,Rio de Janeiro,FAZER
+13407,421,Rio de Janeiro,FAZER
+13408,422,Rio de Janeiro,FAZER
+13409,423,Rio de Janeiro,FAZER
+13410,424,Rio de Janeiro,FAZER
+13411,425,Rio de Janeiro,FAZER
+13412,426,Rio de Janeiro,FAZER
+13413,427,Rio de Janeiro,FAZER
+13414,428,Rio de Janeiro,FAZER
+13415,429,Rio de Janeiro,FAZER
+13416,430,Rio de Janeiro,FAZER
+13417,431,Rio de Janeiro,FAZER
+13418,432,Rio de Janeiro,FAZER
+13419,433,Rio de Janeiro,FAZER
+13420,434,Rio de Janeiro,FAZER
+13421,435,Rio de Janeiro,FAZER
+13422,436,Rio de Janeiro,FAZER
+13423,437,Rio de Janeiro,FAZER
+13424,438,Rio de Janeiro,FAZER
+13425,439,Rio de Janeiro,FAZER
+13426,440,Rio de Janeiro,FAZER
+13427,441,Rio de Janeiro,FAZER
+13428,442,Rio de Janeiro,FAZER
+13429,443,Rio de Janeiro,FAZER
+13430,444,Rio de Janeiro,FAZER
+13431,445,Rio de Janeiro,FAZER
+13432,446,Rio de Janeiro,FAZER
+13433,447,Rio de Janeiro,FAZER
+13434,448,Rio de Janeiro,FAZER
+13435,449,Rio de Janeiro,FAZER
+13436,450,Rio de Janeiro,FAZER
+13437,451,Rio de Janeiro,FAZER
+13438,452,Rio de Janeiro,FAZER
+13439,453,Rio de Janeiro,FAZER
+13440,454,Rio de Janeiro,FAZER
+13441,455,Rio de Janeiro,FAZER
+13442,456,Rio de Janeiro,FAZER
+13443,457,Rio de Janeiro,FAZER
+13444,458,Rio de Janeiro,FAZER
+13445,459,Rio de Janeiro,FAZER
+13446,460,Rio de Janeiro,FAZER
+13447,461,Rio de Janeiro,FAZER
+13448,462,Rio de Janeiro,FAZER
+13449,463,Rio de Janeiro,FAZER
+13450,464,Rio de Janeiro,FAZER
+13451,465,Rio de Janeiro,FAZER
+13452,466,Rio de Janeiro,FAZER
+13453,467,Rio de Janeiro,FAZER
+13454,468,Rio de Janeiro,FAZER
+13455,469,Rio de Janeiro,FAZER
+13456,470,Rio de Janeiro,FAZER
+13457,471,Rio de Janeiro,FAZER
+13458,472,Rio de Janeiro,FAZER
+13459,473,Rio de Janeiro,FAZER
+13460,474,Rio de Janeiro,FAZER
+13461,475,Rio de Janeiro,FAZER
+13462,476,Rio de Janeiro,FAZER
+13463,477,Rio de Janeiro,FAZER
+13464,478,Rio de Janeiro,FAZER
+13465,479,Rio de Janeiro,FAZER
+13466,480,Rio de Janeiro,FAZER
+13467,481,Rio de Janeiro,FAZER
+13468,482,Rio de Janeiro,FAZER
+13469,483,Rio de Janeiro,FAZER
+13470,484,Rio de Janeiro,FAZER
+13471,485,Rio de Janeiro,FAZER
+13472,486,Rio de Janeiro,FAZER
+13473,487,Rio de Janeiro,FAZER
+13474,488,Rio de Janeiro,FAZER
+13475,489,Rio de Janeiro,FAZER
+13476,490,Rio de Janeiro,FAZER
+13477,491,Rio de Janeiro,FAZER
+13478,492,Rio de Janeiro,FAZER
+13479,493,Rio de Janeiro,FAZER
+13480,494,Rio de Janeiro,FAZER
+13481,495,Rio de Janeiro,FAZER
+13482,496,Rio de Janeiro,FAZER
+13483,497,Rio de Janeiro,FAZER
+13484,498,Rio de Janeiro,FAZER
+13485,499,Rio de Janeiro,FAZER
+13486,500,Rio de Janeiro,FAZER
+13487,501,Rio de Janeiro,FAZER
+13488,502,Rio de Janeiro,FAZER
+13489,503,Rio de Janeiro,FAZER
+13490,504,Rio de Janeiro,FAZER
+13491,505,Rio de Janeiro,FAZER
+13492,506,Rio de Janeiro,FAZER
+13493,507,Rio de Janeiro,FAZER
+13494,508,Rio de Janeiro,FAZER
+13495,509,Rio de Janeiro,FAZER
+13496,510,Rio de Janeiro,FAZER
+13497,511,Rio de Janeiro,FAZER
+13498,512,Rio de Janeiro,FAZER
+13499,513,Rio de Janeiro,FAZER
+13500,514,Rio de Janeiro,FAZER
+13501,515,Rio de Janeiro,FAZER
+13502,516,Rio de Janeiro,FAZER
+13503,517,Rio de Janeiro,FAZER
+13504,518,Rio de Janeiro,FAZER
+13505,519,Rio de Janeiro,FAZER
+13506,520,Rio de Janeiro,FAZER
+13507,521,Rio de Janeiro,FAZER
+13508,522,Rio de Janeiro,FAZER
+13509,523,Rio de Janeiro,FAZER
+13510,524,Rio de Janeiro,FAZER
+13511,525,Rio de Janeiro,FAZER
+13512,526,Rio de Janeiro,FAZER
+13513,527,Rio de Janeiro,FAZER
+13514,528,Rio de Janeiro,FAZER
+13515,529,Rio de Janeiro,FAZER
+13516,530,Rio de Janeiro,FAZER
+13517,531,Rio de Janeiro,FAZER
+13518,532,Rio de Janeiro,FAZER
+13519,533,Rio de Janeiro,FAZER
+13520,534,Rio de Janeiro,FAZER
+13521,535,Rio de Janeiro,FAZER
+13522,536,Rio de Janeiro,FAZER
+13523,537,Rio de Janeiro,FAZER
+13524,538,Rio de Janeiro,FAZER
+13525,539,Rio de Janeiro,FAZER
+13526,540,Rio de Janeiro,FAZER
+13527,541,Rio de Janeiro,FAZER
+13528,542,Rio de Janeiro,FAZER
+13529,543,Rio de Janeiro,FAZER
+13530,544,Rio de Janeiro,FAZER
+13531,545,Rio de Janeiro,FAZER
+13532,546,Rio de Janeiro,FAZER
+13533,547,Rio de Janeiro,FAZER
+13534,548,Rio de Janeiro,FAZER
+13535,549,Rio de Janeiro,FAZER
+13536,550,Rio de Janeiro,FAZER
+13537,551,Rio de Janeiro,FAZER
+13538,552,Rio de Janeiro,FAZER
+13539,553,Rio de Janeiro,FAZER
+13540,554,Rio de Janeiro,FAZER
+13541,555,Rio de Janeiro,FAZER
+13542,556,Rio de Janeiro,FAZER
+13543,557,Rio de Janeiro,FAZER
+13544,558,Rio de Janeiro,FAZER
+13545,559,Rio de Janeiro,FAZER
+13546,560,Rio de Janeiro,FAZER
+13547,561,Rio de Janeiro,FAZER
+13548,562,Rio de Janeiro,FAZER
+13549,563,Rio de Janeiro,FAZER
+13550,564,Rio de Janeiro,FAZER
+13551,565,Rio de Janeiro,FAZER
+13552,566,Rio de Janeiro,FAZER
+13553,567,Rio de Janeiro,FAZER
+13554,568,Rio de Janeiro,FAZER
+13555,569,Rio de Janeiro,FAZER
+13556,570,Rio de Janeiro,FAZER
+13557,571,Rio de Janeiro,FAZER
+13558,572,Rio de Janeiro,FAZER
+13559,573,Rio de Janeiro,FAZER
+13560,574,Rio de Janeiro,FAZER
+13561,575,Rio de Janeiro,FAZER
+13562,576,Rio de Janeiro,FAZER
+13563,577,Rio de Janeiro,FAZER
+13564,578,Rio de Janeiro,FAZER
+13565,579,Rio de Janeiro,FAZER
+13566,580,Rio de Janeiro,FAZER
+13567,581,Rio de Janeiro,FAZER
+13568,582,Rio de Janeiro,FAZER
+13569,583,Rio de Janeiro,FAZER
+13570,584,Rio de Janeiro,FAZER
+13571,585,Rio de Janeiro,FAZER
+13572,586,Rio de Janeiro,FAZER
+13573,587,Rio de Janeiro,FAZER
+13574,588,Rio de Janeiro,FAZER
+13575,589,Rio de Janeiro,FAZER
+13576,590,Rio de Janeiro,FAZER
+13577,591,Rio de Janeiro,FAZER
+13578,592,Rio de Janeiro,FAZER
+13579,593,Rio de Janeiro,FAZER
+13580,594,Rio de Janeiro,FAZER
+13581,595,Rio de Janeiro,FAZER
+13582,596,Rio de Janeiro,FAZER
+13583,597,Rio de Janeiro,FAZER
+13584,598,Rio de Janeiro,FAZER
+13585,599,Rio de Janeiro,FAZER
+13586,600,Rio de Janeiro,FAZER
+13587,601,Rio de Janeiro,FAZER
+13588,602,Rio de Janeiro,FAZER
+13589,603,Rio de Janeiro,FAZER
+13590,604,Rio de Janeiro,FAZER
+13591,605,Rio de Janeiro,FAZER
+13592,606,Rio de Janeiro,FAZER
+13593,607,Rio de Janeiro,FAZER
+13594,608,Rio de Janeiro,FAZER
+13595,609,Rio de Janeiro,FAZER
+13596,610,Rio de Janeiro,FAZER
+13597,611,Rio de Janeiro,FAZER
+13598,612,Rio de Janeiro,FAZER
+13599,613,Rio de Janeiro,FAZER
+13600,614,Rio de Janeiro,FAZER
+13601,615,Rio de Janeiro,FAZER
+13602,616,Rio de Janeiro,FAZER
+13603,617,Rio de Janeiro,FAZER
+13604,618,Rio de Janeiro,FAZER
+13605,619,Rio de Janeiro,FAZER
+13606,620,Rio de Janeiro,FAZER
+13607,621,Rio de Janeiro,FAZER
+13608,622,Rio de Janeiro,FAZER
+13609,623,Rio de Janeiro,FAZER
+13610,624,Rio de Janeiro,FAZER
+13611,625,Rio de Janeiro,FAZER
+13612,626,Rio de Janeiro,FAZER
+13613,627,Rio de Janeiro,FAZER
+13614,628,Rio de Janeiro,FAZER
+13615,629,Rio de Janeiro,FAZER
+13616,630,Rio de Janeiro,FAZER
+13617,631,Rio de Janeiro,FAZER
+13618,632,Rio de Janeiro,FAZER
+13619,633,Rio de Janeiro,FAZER
+13620,634,Rio de Janeiro,FAZER
+13621,635,Rio de Janeiro,FAZER
+13622,636,Rio de Janeiro,FAZER
+13623,637,Rio de Janeiro,FAZER
+13624,638,Rio de Janeiro,FAZER
+13625,639,Rio de Janeiro,FAZER
+13626,640,Rio de Janeiro,FAZER
+13627,641,Rio de Janeiro,FAZER
+13628,642,Rio de Janeiro,FAZER
+13629,643,Rio de Janeiro,FAZER
+13630,644,Rio de Janeiro,FAZER
+13631,645,Rio de Janeiro,FAZER
+13632,646,Rio de Janeiro,FAZER
+13633,647,Rio de Janeiro,FAZER
+13634,648,Rio de Janeiro,FAZER
+13635,649,Rio de Janeiro,FAZER
+13636,650,Rio de Janeiro,FAZER
+13637,651,Rio de Janeiro,FAZER
+13638,652,Rio de Janeiro,FAZER
+13639,653,Rio de Janeiro,FAZER
+13640,654,Rio de Janeiro,FAZER
+13641,655,Rio de Janeiro,FAZER
+13642,656,Rio de Janeiro,FAZER
+13643,657,Rio de Janeiro,FAZER
+13644,658,Rio de Janeiro,FAZER
+13645,659,Rio de Janeiro,FAZER
+13646,660,Rio de Janeiro,FAZER
+13647,661,Rio de Janeiro,FAZER
+13648,662,Rio de Janeiro,FAZER
+13649,663,Rio de Janeiro,FAZER
+13650,664,Rio de Janeiro,FAZER
+13651,665,Rio de Janeiro,FAZER
+13652,666,Rio de Janeiro,FAZER
+13653,667,Rio de Janeiro,FAZER
+13654,668,Rio de Janeiro,FAZER
+13655,669,Rio de Janeiro,FAZER
+13656,670,Rio de Janeiro,FAZER
+13657,671,Rio de Janeiro,FAZER
+13658,672,Rio de Janeiro,FAZER
+13659,673,Rio de Janeiro,FAZER
+13660,674,Rio de Janeiro,FAZER
+13661,675,Rio de Janeiro,FAZER
+13662,676,Rio de Janeiro,FAZER
+13663,677,Rio de Janeiro,FAZER
+13664,678,Rio de Janeiro,FAZER
+13665,679,Rio de Janeiro,FAZER
+13666,680,Rio de Janeiro,FAZER
+13667,681,Rio de Janeiro,FAZER
+13668,682,Rio de Janeiro,FAZER
+13669,683,Rio de Janeiro,FAZER
+13670,684,Rio de Janeiro,FAZER
+13671,685,Rio de Janeiro,FAZER
+13672,686,Rio de Janeiro,FAZER
+13673,687,Rio de Janeiro,FAZER
+13674,688,Rio de Janeiro,FAZER
+13675,689,Rio de Janeiro,FAZER
+13676,690,Rio de Janeiro,FAZER
+13677,691,Rio de Janeiro,FAZER
+13678,692,Rio de Janeiro,FAZER
+13679,693,Rio de Janeiro,FAZER
+13680,694,Rio de Janeiro,FAZER
+13681,695,Rio de Janeiro,FAZER
+13682,696,Rio de Janeiro,FAZER
+13683,697,Rio de Janeiro,FAZER
+13684,698,Rio de Janeiro,FAZER
+13685,699,Rio de Janeiro,FAZER
+13686,700,Rio de Janeiro,FAZER
+13687,701,Rio de Janeiro,FAZER
+13688,702,Rio de Janeiro,FAZER
+13689,703,Rio de Janeiro,FAZER
+13690,704,Rio de Janeiro,FAZER
+13691,705,Rio de Janeiro,FAZER
+13692,706,Rio de Janeiro,FAZER
+13693,707,Rio de Janeiro,FAZER
+13694,708,Rio de Janeiro,FAZER
+13695,709,Rio de Janeiro,FAZER
+13696,710,Rio de Janeiro,FAZER
+13697,711,Rio de Janeiro,FAZER
+13698,712,Rio de Janeiro,FAZER
+13699,713,Rio de Janeiro,FAZER
+13700,714,Rio de Janeiro,FAZER
+13701,715,Rio de Janeiro,FAZER
+13702,716,Rio de Janeiro,FAZER
+13703,717,Rio de Janeiro,FAZER
+13704,718,Rio de Janeiro,FAZER
+13705,719,Rio de Janeiro,FAZER
+13706,720,Rio de Janeiro,FAZER
+13707,721,Rio de Janeiro,FAZER
+13708,722,Rio de Janeiro,FAZER
+13709,723,Rio de Janeiro,FAZER
+13710,724,Rio de Janeiro,FAZER
+13711,725,Rio de Janeiro,FAZER
+13712,726,Rio de Janeiro,FAZER
+13713,727,Rio de Janeiro,FAZER
+13714,728,Rio de Janeiro,FAZER
+13715,729,Rio de Janeiro,FAZER
+13716,730,Rio de Janeiro,FAZER
+13717,731,Rio de Janeiro,FAZER
+13718,732,Rio de Janeiro,FAZER
+13719,733,Rio de Janeiro,FAZER
+13720,734,Rio de Janeiro,FAZER
+13721,735,Rio de Janeiro,FAZER
+13722,736,Rio de Janeiro,FAZER
+13723,737,Rio de Janeiro,FAZER
+13724,738,Rio de Janeiro,FAZER
+13725,739,Rio de Janeiro,FAZER
+13726,740,Rio de Janeiro,FAZER
+13727,741,Rio de Janeiro,FAZER
+13728,742,Rio de Janeiro,FAZER
+13729,743,Rio de Janeiro,FAZER
+13730,744,Rio de Janeiro,FAZER
+13731,745,Rio de Janeiro,FAZER
+13732,746,Rio de Janeiro,FAZER
+13733,747,Rio de Janeiro,FAZER
+13734,748,Rio de Janeiro,FAZER
+13735,749,Rio de Janeiro,FAZER
+13736,750,Rio de Janeiro,FAZER
+13737,751,Rio de Janeiro,FAZER
+13738,752,Rio de Janeiro,FAZER
+13739,753,Rio de Janeiro,FAZER
+13740,754,Rio de Janeiro,FAZER
+13741,755,Rio de Janeiro,FAZER
+13742,756,Rio de Janeiro,FAZER
+13743,757,Rio de Janeiro,FAZER
+13744,758,Rio de Janeiro,FAZER
+13745,759,Rio de Janeiro,FAZER
+13746,760,Rio de Janeiro,FAZER
+13747,761,Rio de Janeiro,FAZER
+13748,762,Rio de Janeiro,FAZER
+13749,763,Rio de Janeiro,FAZER
+13750,764,Rio de Janeiro,FAZER
+13751,765,Rio de Janeiro,FAZER
+13752,766,Rio de Janeiro,FAZER
+13753,767,Rio de Janeiro,FAZER
+13754,768,Rio de Janeiro,FAZER
+13755,769,Rio de Janeiro,FAZER
+13756,770,Rio de Janeiro,FAZER
+13757,771,Rio de Janeiro,FAZER
+13758,772,Rio de Janeiro,FAZER
+13759,773,Rio de Janeiro,FAZER
+13760,774,Rio de Janeiro,FAZER
+13761,775,Rio de Janeiro,FAZER
+13762,776,Rio de Janeiro,FAZER
+13763,777,Rio de Janeiro,FAZER
+13764,778,Rio de Janeiro,FAZER
+13765,779,Rio de Janeiro,FAZER
+13766,780,Rio de Janeiro,FAZER
+13767,781,Rio de Janeiro,FAZER
+13768,782,Rio de Janeiro,FAZER
+13769,783,Rio de Janeiro,FAZER
+13770,784,Rio de Janeiro,FAZER
+13771,785,Rio de Janeiro,FAZER
+13772,786,Rio de Janeiro,FAZER
+13773,787,Rio de Janeiro,FAZER
+13774,788,Rio de Janeiro,FAZER
+13775,789,Rio de Janeiro,FAZER
+13776,790,Rio de Janeiro,FAZER
+13777,791,Rio de Janeiro,FAZER
+13778,792,Rio de Janeiro,FAZER
+13779,793,Rio de Janeiro,FAZER
+13780,794,Rio de Janeiro,FAZER
+13781,795,Rio de Janeiro,FAZER
+13782,796,Rio de Janeiro,FAZER
+13783,797,Rio de Janeiro,FAZER
+13784,798,Rio de Janeiro,FAZER
+13785,799,Rio de Janeiro,FAZER
+13786,800,Rio de Janeiro,FAZER
+13787,801,Rio de Janeiro,FAZER
+13788,802,Rio de Janeiro,FAZER
+13789,803,Rio de Janeiro,FAZER
+13790,804,Rio de Janeiro,FAZER
+13791,805,Rio de Janeiro,FAZER
+13792,806,Rio de Janeiro,FAZER
+13793,807,Rio de Janeiro,FAZER
+13794,808,Rio de Janeiro,FAZER
+13795,809,Rio de Janeiro,FAZER
+13796,810,Rio de Janeiro,FAZER
+13797,811,Rio de Janeiro,FAZER
+13798,812,Rio de Janeiro,FAZER
+13799,813,Rio de Janeiro,FAZER
+13800,814,Rio de Janeiro,FAZER
+13801,815,Rio de Janeiro,FAZER
+13802,816,Rio de Janeiro,FAZER
+13803,817,Rio de Janeiro,FAZER
+13804,818,Rio de Janeiro,FAZER
+13805,819,Rio de Janeiro,FAZER
+13806,820,Rio de Janeiro,FAZER
+13807,821,Rio de Janeiro,FAZER
+13808,822,Rio de Janeiro,FAZER
+13809,823,Rio de Janeiro,FAZER
+13810,824,Rio de Janeiro,FAZER
+13811,825,Rio de Janeiro,FAZER
+13812,826,Rio de Janeiro,FAZER
+13813,827,Rio de Janeiro,FAZER
+13814,828,Rio de Janeiro,FAZER
+13815,829,Rio de Janeiro,FAZER
+13816,830,Rio de Janeiro,FAZER
+13817,831,Rio de Janeiro,FAZER
+13818,832,Rio de Janeiro,FAZER
+13819,833,Rio de Janeiro,FAZER
+13820,834,Rio de Janeiro,FAZER
+13821,835,Rio de Janeiro,FAZER
+13822,836,Rio de Janeiro,FAZER
+13823,837,Rio de Janeiro,FAZER
+13824,838,Rio de Janeiro,FAZER
+13825,839,Rio de Janeiro,FAZER
+13826,840,Rio de Janeiro,FAZER
+13827,841,Rio de Janeiro,FAZER
+13828,842,Rio de Janeiro,FAZER
+13829,843,Rio de Janeiro,FAZER
+13830,844,Rio de Janeiro,FAZER
+13831,845,Rio de Janeiro,FAZER
+13832,846,Rio de Janeiro,FAZER
+13833,847,Rio de Janeiro,FAZER
+13834,848,Rio de Janeiro,FAZER
+13835,849,Rio de Janeiro,FAZER
+13836,850,Rio de Janeiro,FAZER
+13837,851,Rio de Janeiro,FAZER
+13838,852,Rio de Janeiro,FAZER
+13839,853,Rio de Janeiro,FAZER
+13840,854,Rio de Janeiro,FAZER
+13841,855,Rio de Janeiro,FAZER
+13842,856,Rio de Janeiro,FAZER
+13843,857,Rio de Janeiro,FAZER
+13844,858,Rio de Janeiro,FAZER
+13845,859,Rio de Janeiro,FAZER
+13846,860,Rio de Janeiro,FAZER
+13847,861,Rio de Janeiro,FAZER
+13848,862,Rio de Janeiro,FAZER
+13849,863,Rio de Janeiro,FAZER
+13850,864,Rio de Janeiro,FAZER
+13851,865,Rio de Janeiro,FAZER
+13852,866,Rio de Janeiro,FAZER
+13853,867,Rio de Janeiro,FAZER
+13854,868,Rio de Janeiro,FAZER
+13855,869,Rio de Janeiro,FAZER
+13856,870,Rio de Janeiro,FAZER
+13857,871,Rio de Janeiro,FAZER
+13858,872,Rio de Janeiro,FAZER
+13859,873,Rio de Janeiro,FAZER
+13860,874,Rio de Janeiro,FAZER
+13861,875,Rio de Janeiro,FAZER
+13862,876,Rio de Janeiro,FAZER
+13863,877,Rio de Janeiro,FAZER
+13864,878,Rio de Janeiro,FAZER
+13865,879,Rio de Janeiro,FAZER
+13866,880,Rio de Janeiro,FAZER
+13867,881,Rio de Janeiro,FAZER
+13868,882,Rio de Janeiro,FAZER
+13869,883,Rio de Janeiro,FAZER
+13870,884,Rio de Janeiro,FAZER
+13871,885,Rio de Janeiro,FAZER
+13872,886,Rio de Janeiro,FAZER
+13873,887,Rio de Janeiro,FAZER
+13874,888,Rio de Janeiro,FAZER
+13875,889,Rio de Janeiro,FAZER
+13876,890,Rio de Janeiro,FAZER
+13877,891,Rio de Janeiro,FAZER
+13878,892,Rio de Janeiro,FAZER
+13879,893,Rio de Janeiro,FAZER
+13880,894,Rio de Janeiro,FAZER
+13881,895,Rio de Janeiro,FAZER
+13882,896,Rio de Janeiro,FAZER
+13883,897,Rio de Janeiro,FAZER
+13884,898,Rio de Janeiro,FAZER
+13885,899,Rio de Janeiro,FAZER
+13886,900,Rio de Janeiro,FAZER
+13887,901,Rio de Janeiro,FAZER
+13888,902,Rio de Janeiro,FAZER
+13889,903,Rio de Janeiro,FAZER
+13890,904,Rio de Janeiro,FAZER
+13891,905,Rio de Janeiro,FAZER
+13892,906,Rio de Janeiro,FAZER
+13893,907,Rio de Janeiro,FAZER
+13894,908,Rio de Janeiro,FAZER
+13895,909,Rio de Janeiro,FAZER
+13896,910,Rio de Janeiro,FAZER
+13897,911,Rio de Janeiro,FAZER
+13898,912,Rio de Janeiro,FAZER
+13899,913,Rio de Janeiro,FAZER
+13900,914,Rio de Janeiro,FAZER
+13901,915,Rio de Janeiro,FAZER
+13902,916,Rio de Janeiro,FAZER
+13903,917,Rio de Janeiro,FAZER
+13904,918,Rio de Janeiro,FAZER
+13905,919,Rio de Janeiro,FAZER
+13906,920,Rio de Janeiro,FAZER
+13907,921,Rio de Janeiro,FAZER
+13908,922,Rio de Janeiro,FAZER
+13909,923,Rio de Janeiro,FAZER
+13910,924,Rio de Janeiro,FAZER
+13911,925,Rio de Janeiro,FAZER
+13912,926,Rio de Janeiro,FAZER
+13913,927,Rio de Janeiro,FAZER
+13914,928,Rio de Janeiro,FAZER
+13915,929,Rio de Janeiro,FAZER
+13916,930,Rio de Janeiro,FAZER
+13917,931,Rio de Janeiro,FAZER
+13918,932,Rio de Janeiro,FAZER
+13919,933,Rio de Janeiro,FAZER
+13920,934,Rio de Janeiro,FAZER
+13921,935,Rio de Janeiro,FAZER
+13922,936,Rio de Janeiro,FAZER
+13923,937,Rio de Janeiro,FAZER
+13924,938,Rio de Janeiro,FAZER
+13925,939,Rio de Janeiro,FAZER
+13926,940,Rio de Janeiro,FAZER
+13927,941,Rio de Janeiro,FAZER
+13928,942,Rio de Janeiro,FAZER
+13929,943,Rio de Janeiro,FAZER
+13930,944,Rio de Janeiro,FAZER
+13931,945,Rio de Janeiro,FAZER
+13932,946,Rio de Janeiro,FAZER
+13933,947,Rio de Janeiro,FAZER
+13934,948,Rio de Janeiro,FAZER
+13935,949,Rio de Janeiro,FAZER
+13936,950,Rio de Janeiro,FAZER
+13937,951,Rio de Janeiro,FAZER
+13938,952,Rio de Janeiro,FAZER
+13939,953,Rio de Janeiro,FAZER
+13940,954,Rio de Janeiro,FAZER
+13941,955,Rio de Janeiro,FAZER
+13942,956,Rio de Janeiro,FAZER
+13943,957,Rio de Janeiro,FAZER
+13944,958,Rio de Janeiro,FAZER
+13945,959,Rio de Janeiro,FAZER
+13946,960,Rio de Janeiro,FAZER
+13947,961,Rio de Janeiro,FAZER
+13948,962,Rio de Janeiro,FAZER
+13949,963,Rio de Janeiro,FAZER
+13950,964,Rio de Janeiro,FAZER
+13951,965,Rio de Janeiro,FAZER
+13952,966,Rio de Janeiro,FAZER
+13953,967,Rio de Janeiro,FAZER
+13954,968,Rio de Janeiro,FAZER
+13955,969,Rio de Janeiro,FAZER
+13956,970,Rio de Janeiro,FAZER
+13957,971,Rio de Janeiro,FAZER
+13958,972,Rio de Janeiro,FAZER
+13959,973,Rio de Janeiro,FAZER
+13960,974,Rio de Janeiro,FAZER
+13961,975,Rio de Janeiro,FAZER
+13962,976,Rio de Janeiro,FAZER
+13963,977,Rio de Janeiro,FAZER
+13964,978,Rio de Janeiro,FAZER
+13965,979,Rio de Janeiro,FAZER
+13966,980,Rio de Janeiro,FAZER
+13967,981,Rio de Janeiro,FAZER
+13968,982,Rio de Janeiro,FAZER
+13969,983,Rio de Janeiro,FAZER
+13970,984,Rio de Janeiro,FAZER
+13971,985,Rio de Janeiro,FAZER
+13972,986,Rio de Janeiro,FAZER
+13973,987,Rio de Janeiro,FAZER
+13974,988,Rio de Janeiro,FAZER
+13975,989,Rio de Janeiro,FAZER
+13976,990,Rio de Janeiro,FAZER
+13977,991,Rio de Janeiro,FAZER
+13978,992,Rio de Janeiro,FAZER
+13979,993,Rio de Janeiro,FAZER
+13980,994,Rio de Janeiro,FAZER
+13981,995,Rio de Janeiro,FAZER
+13982,996,Rio de Janeiro,FAZER
+13983,997,Rio de Janeiro,FAZER
+13984,998,Rio de Janeiro,FAZER
+13985,999,Rio de Janeiro,FAZER
+13986,1,Rio Grande do Norte,FAZER
+13987,2,Rio Grande do Norte,FAZER
+13988,3,Rio Grande do Norte,FAZER
+13989,4,Rio Grande do Norte,FAZER
+13990,5,Rio Grande do Norte,FAZER
+13991,6,Rio Grande do Norte,FAZER
+13992,7,Rio Grande do Norte,FAZER
+13993,8,Rio Grande do Norte,FAZER
+13994,9,Rio Grande do Norte,FAZER
+13995,10,Rio Grande do Norte,FAZER
+13996,11,Rio Grande do Norte,FAZER
+13997,12,Rio Grande do Norte,FAZER
+13998,13,Rio Grande do Norte,FAZER
+13999,14,Rio Grande do Norte,FAZER
+14000,15,Rio Grande do Norte,FAZER
+14001,16,Rio Grande do Norte,FAZER
+14002,17,Rio Grande do Norte,FAZER
+14003,18,Rio Grande do Norte,FAZER
+14004,19,Rio Grande do Norte,FAZER
+14005,20,Rio Grande do Norte,FAZER
+14006,21,Rio Grande do Norte,FAZER
+14007,22,Rio Grande do Norte,FAZER
+14008,23,Rio Grande do Norte,FAZER
+14009,24,Rio Grande do Norte,FAZER
+14010,25,Rio Grande do Norte,FAZER
+14011,26,Rio Grande do Norte,FAZER
+14012,27,Rio Grande do Norte,FAZER
+14013,28,Rio Grande do Norte,FAZER
+14014,29,Rio Grande do Norte,FAZER
+14015,30,Rio Grande do Norte,FAZER
+14016,31,Rio Grande do Norte,FAZER
+14017,32,Rio Grande do Norte,FAZER
+14018,33,Rio Grande do Norte,FAZER
+14019,34,Rio Grande do Norte,FAZER
+14020,35,Rio Grande do Norte,FAZER
+14021,36,Rio Grande do Norte,FAZER
+14022,37,Rio Grande do Norte,FAZER
+14023,38,Rio Grande do Norte,FAZER
+14024,39,Rio Grande do Norte,FAZER
+14025,40,Rio Grande do Norte,FAZER
+14026,41,Rio Grande do Norte,FAZER
+14027,42,Rio Grande do Norte,FAZER
+14028,43,Rio Grande do Norte,FAZER
+14029,44,Rio Grande do Norte,FAZER
+14030,45,Rio Grande do Norte,FAZER
+14031,46,Rio Grande do Norte,FAZER
+14032,47,Rio Grande do Norte,FAZER
+14033,48,Rio Grande do Norte,FAZER
+14034,49,Rio Grande do Norte,FAZER
+14035,50,Rio Grande do Norte,FAZER
+14036,51,Rio Grande do Norte,FAZER
+14037,52,Rio Grande do Norte,FAZER
+14038,53,Rio Grande do Norte,FAZER
+14039,54,Rio Grande do Norte,FAZER
+14040,55,Rio Grande do Norte,FAZER
+14041,56,Rio Grande do Norte,FAZER
+14042,57,Rio Grande do Norte,FAZER
+14043,58,Rio Grande do Norte,FAZER
+14044,59,Rio Grande do Norte,FAZER
+14045,60,Rio Grande do Norte,FAZER
+14046,61,Rio Grande do Norte,FAZER
+14047,62,Rio Grande do Norte,FAZER
+14048,63,Rio Grande do Norte,FAZER
+14049,64,Rio Grande do Norte,FAZER
+14050,65,Rio Grande do Norte,FAZER
+14051,66,Rio Grande do Norte,FAZER
+14052,67,Rio Grande do Norte,FAZER
+14053,68,Rio Grande do Norte,FAZER
+14054,69,Rio Grande do Norte,FAZER
+14055,70,Rio Grande do Norte,FAZER
+14056,71,Rio Grande do Norte,FAZER
+14057,72,Rio Grande do Norte,FAZER
+14058,73,Rio Grande do Norte,FAZER
+14059,74,Rio Grande do Norte,FAZER
+14060,75,Rio Grande do Norte,FAZER
+14061,76,Rio Grande do Norte,FAZER
+14062,77,Rio Grande do Norte,FAZER
+14063,78,Rio Grande do Norte,FAZER
+14064,79,Rio Grande do Norte,FAZER
+14065,80,Rio Grande do Norte,FAZER
+14066,81,Rio Grande do Norte,FAZER
+14067,82,Rio Grande do Norte,FAZER
+14068,83,Rio Grande do Norte,FAZER
+14069,84,Rio Grande do Norte,FAZER
+14070,85,Rio Grande do Norte,FAZER
+14071,86,Rio Grande do Norte,FAZER
+14072,87,Rio Grande do Norte,FAZER
+14073,88,Rio Grande do Norte,FAZER
+14074,89,Rio Grande do Norte,FAZER
+14075,90,Rio Grande do Norte,FAZER
+14076,91,Rio Grande do Norte,FAZER
+14077,92,Rio Grande do Norte,FAZER
+14078,93,Rio Grande do Norte,FAZER
+14079,94,Rio Grande do Norte,FAZER
+14080,95,Rio Grande do Norte,FAZER
+14081,96,Rio Grande do Norte,FAZER
+14082,97,Rio Grande do Norte,FAZER
+14083,98,Rio Grande do Norte,FAZER
+14084,99,Rio Grande do Norte,FAZER
+14085,100,Rio Grande do Norte,FAZER
+14086,101,Rio Grande do Norte,FAZER
+14087,102,Rio Grande do Norte,FAZER
+14088,103,Rio Grande do Norte,FAZER
+14089,104,Rio Grande do Norte,FAZER
+14090,105,Rio Grande do Norte,FAZER
+14091,106,Rio Grande do Norte,FAZER
+14092,107,Rio Grande do Norte,FAZER
+14093,108,Rio Grande do Norte,FAZER
+14094,109,Rio Grande do Norte,FAZER
+14095,110,Rio Grande do Norte,FAZER
+14096,111,Rio Grande do Norte,FAZER
+14097,112,Rio Grande do Norte,FAZER
+14098,113,Rio Grande do Norte,FAZER
+14099,114,Rio Grande do Norte,FAZER
+14100,115,Rio Grande do Norte,FAZER
+14101,116,Rio Grande do Norte,FAZER
+14102,117,Rio Grande do Norte,FAZER
+14103,118,Rio Grande do Norte,FAZER
+14104,119,Rio Grande do Norte,FAZER
+14105,120,Rio Grande do Norte,FAZER
+14106,121,Rio Grande do Norte,FAZER
+14107,122,Rio Grande do Norte,FAZER
+14108,123,Rio Grande do Norte,FAZER
+14109,124,Rio Grande do Norte,FAZER
+14110,125,Rio Grande do Norte,FAZER
+14111,126,Rio Grande do Norte,FAZER
+14112,127,Rio Grande do Norte,FAZER
+14113,128,Rio Grande do Norte,FAZER
+14114,129,Rio Grande do Norte,FAZER
+14115,130,Rio Grande do Norte,FAZER
+14116,131,Rio Grande do Norte,FAZER
+14117,132,Rio Grande do Norte,FAZER
+14118,133,Rio Grande do Norte,FAZER
+14119,134,Rio Grande do Norte,FAZER
+14120,135,Rio Grande do Norte,FAZER
+14121,136,Rio Grande do Norte,FAZER
+14122,137,Rio Grande do Norte,FAZER
+14123,138,Rio Grande do Norte,FAZER
+14124,139,Rio Grande do Norte,FAZER
+14125,140,Rio Grande do Norte,FAZER
+14126,141,Rio Grande do Norte,FAZER
+14127,142,Rio Grande do Norte,FAZER
+14128,143,Rio Grande do Norte,FAZER
+14129,144,Rio Grande do Norte,FAZER
+14130,145,Rio Grande do Norte,FAZER
+14131,146,Rio Grande do Norte,FAZER
+14132,147,Rio Grande do Norte,FAZER
+14133,148,Rio Grande do Norte,FAZER
+14134,149,Rio Grande do Norte,FAZER
+14135,150,Rio Grande do Norte,FAZER
+14136,151,Rio Grande do Norte,FAZER
+14137,152,Rio Grande do Norte,FAZER
+14138,153,Rio Grande do Norte,FAZER
+14139,154,Rio Grande do Norte,FAZER
+14140,155,Rio Grande do Norte,FAZER
+14141,156,Rio Grande do Norte,FAZER
+14142,157,Rio Grande do Norte,FAZER
+14143,158,Rio Grande do Norte,FAZER
+14144,159,Rio Grande do Norte,FAZER
+14145,160,Rio Grande do Norte,FAZER
+14146,161,Rio Grande do Norte,FAZER
+14147,162,Rio Grande do Norte,FAZER
+14148,163,Rio Grande do Norte,FAZER
+14149,164,Rio Grande do Norte,FAZER
+14150,165,Rio Grande do Norte,FAZER
+14151,166,Rio Grande do Norte,FAZER
+14152,167,Rio Grande do Norte,FAZER
+14153,168,Rio Grande do Norte,FAZER
+14154,169,Rio Grande do Norte,FAZER
+14155,170,Rio Grande do Norte,FAZER
+14156,171,Rio Grande do Norte,FAZER
+14157,172,Rio Grande do Norte,FAZER
+14158,173,Rio Grande do Norte,FAZER
+14159,174,Rio Grande do Norte,FAZER
+14160,175,Rio Grande do Norte,FAZER
+14161,176,Rio Grande do Norte,FAZER
+14162,177,Rio Grande do Norte,FAZER
+14163,178,Rio Grande do Norte,FAZER
+14164,179,Rio Grande do Norte,FAZER
+14165,180,Rio Grande do Norte,FAZER
+14166,181,Rio Grande do Norte,FAZER
+14167,182,Rio Grande do Norte,FAZER
+14168,183,Rio Grande do Norte,FAZER
+14169,184,Rio Grande do Norte,FAZER
+14170,185,Rio Grande do Norte,FAZER
+14171,186,Rio Grande do Norte,FAZER
+14172,187,Rio Grande do Norte,FAZER
+14173,188,Rio Grande do Norte,FAZER
+14174,189,Rio Grande do Norte,FAZER
+14175,190,Rio Grande do Norte,FAZER
+14176,191,Rio Grande do Norte,FAZER
+14177,192,Rio Grande do Norte,FAZER
+14178,193,Rio Grande do Norte,FAZER
+14179,194,Rio Grande do Norte,FAZER
+14180,195,Rio Grande do Norte,FAZER
+14181,196,Rio Grande do Norte,FAZER
+14182,197,Rio Grande do Norte,FAZER
+14183,198,Rio Grande do Norte,FAZER
+14184,199,Rio Grande do Norte,FAZER
+14185,200,Rio Grande do Norte,FAZER
+14186,201,Rio Grande do Norte,FAZER
+14187,202,Rio Grande do Norte,FAZER
+14188,203,Rio Grande do Norte,FAZER
+14189,204,Rio Grande do Norte,FAZER
+14190,205,Rio Grande do Norte,FAZER
+14191,206,Rio Grande do Norte,FAZER
+14192,207,Rio Grande do Norte,FAZER
+14193,208,Rio Grande do Norte,FAZER
+14194,209,Rio Grande do Norte,FAZER
+14195,210,Rio Grande do Norte,FAZER
+14196,211,Rio Grande do Norte,FAZER
+14197,212,Rio Grande do Norte,FAZER
+14198,213,Rio Grande do Norte,FAZER
+14199,214,Rio Grande do Norte,FAZER
+14200,215,Rio Grande do Norte,FAZER
+14201,216,Rio Grande do Norte,FAZER
+14202,217,Rio Grande do Norte,FAZER
+14203,218,Rio Grande do Norte,FAZER
+14204,219,Rio Grande do Norte,FAZER
+14205,220,Rio Grande do Norte,FAZER
+14206,221,Rio Grande do Norte,FAZER
+14207,222,Rio Grande do Norte,FAZER
+14208,223,Rio Grande do Norte,FAZER
+14209,224,Rio Grande do Norte,FAZER
+14210,225,Rio Grande do Norte,FAZER
+14211,226,Rio Grande do Norte,FAZER
+14212,227,Rio Grande do Norte,FAZER
+14213,228,Rio Grande do Norte,FAZER
+14214,229,Rio Grande do Norte,FAZER
+14215,230,Rio Grande do Norte,FAZER
+14216,231,Rio Grande do Norte,FAZER
+14217,232,Rio Grande do Norte,FAZER
+14218,233,Rio Grande do Norte,FAZER
+14219,234,Rio Grande do Norte,FAZER
+14220,235,Rio Grande do Norte,FAZER
+14221,236,Rio Grande do Norte,FAZER
+14222,237,Rio Grande do Norte,FAZER
+14223,238,Rio Grande do Norte,FAZER
+14224,239,Rio Grande do Norte,FAZER
+14225,240,Rio Grande do Norte,FAZER
+14226,241,Rio Grande do Norte,FAZER
+14227,242,Rio Grande do Norte,FAZER
+14228,243,Rio Grande do Norte,FAZER
+14229,244,Rio Grande do Norte,FAZER
+14230,245,Rio Grande do Norte,FAZER
+14231,246,Rio Grande do Norte,FAZER
+14232,247,Rio Grande do Norte,FAZER
+14233,248,Rio Grande do Norte,FAZER
+14234,249,Rio Grande do Norte,FAZER
+14235,250,Rio Grande do Norte,FAZER
