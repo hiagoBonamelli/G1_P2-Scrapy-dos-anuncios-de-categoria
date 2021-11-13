@@ -1,0 +1,65 @@
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df1.csv 1
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df2.csv 2
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df3.csv 3
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df4.csv 4
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df5.csv 5
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df6.csv 6
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df7.csv 7
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df8.csv 8
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df9.csv 9
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df10.csv 10
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df11.csv 11
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df12.csv 12
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df13.csv 13
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df14.csv 14
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df15.csv 15
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df16.csv 16
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df17.csv 17
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df18.csv 18
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df19.csv 19
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df20.csv 20
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df21.csv 21
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\d-Tampa Radiador\
+python "Parte2 - 4.2_Pegar info dos anuncios.py" df22.csv 22
