@@ -20,8 +20,8 @@ def get_scraperapi_url(url):
 
 
 # configuracoes iniciais
-# url = "https://lista.mercadolivre.com.br/pecas/carros/injecao/sonda-lambda/{marca}/_DisplayType_LF_PriceRange_{inicial}-{final}"
 url = "https://lista.mercadolivre.com.br/pecas/carros/motor/radiadores/tampa-radiador/{marca}/_DisplayType_LF_PriceRange_{inicial}-{final}"
+url = "https://lista.mercadolivre.com.br/pecas/carros/injecao/injetores/{cidade}/_DisplayType_LF_PriceRange_{inicial}-{final}_NoIndex_True"
 path_bases = "./2_bases/"
 
 options = Options()
@@ -95,11 +95,6 @@ path = './1_bases/'
 df_lista_precos = pd.read_csv(path + sys.argv[1])
 df_lista_precos = df_lista_precos[df_lista_precos["status"] != "OK"]
 
-# selecionar marca
-# lista_marca = list(set(df_lista_precos['marca']))
-# aux_marca = sys.argv[1]
-# marca_selecionada = lista_marca[int(aux_marca)]
-# df_lista_precos = df_lista_precos[df_lista_precos['marca'] == marca_selecionada]
 
 while len(df_lista_precos) > 0:
     df_lista_precos = pd.read_csv(path + sys.argv[1])
@@ -109,32 +104,51 @@ while len(df_lista_precos) > 0:
         # abrir url
         i = str(row['preco'])
         f = str(int(float(i)) + 1)
-        m = row['marca']
-        url_get = url.format(
-            marca = m,
-            inicial = i,
-            final = f
-        )
-        driver.get(get_scraperapi_url(url_get))
-
-        body = driver.find_element_by_xpath('/html/body').text
         
-        if '"type":"Buffer","data":' in body:
-            print("Erro na requisição")
+        # cidade
+        c_aux = row['cidade']
+        aux_cidade = {
+            "São Paulo": "novo-em-sao-paulo",
+            "Paraná": "novo-em-parana",
+            "Santa Catarina": "novo-em-santa-catarina",
+            "Goiás": "novo-em-goias",
+            "Minas Gerais": "novo-em-minas-gerais",
+            "Espírito Santo": "novo-em-espirito-santo",
+            "Rio de Janeiro": "novo-em-rio-de-janeiro",
+            "Rio Grande do Sul": "novo-em-rio-grande-do-sul",
+        }
+        c = aux_cidade.get(c_aux)
 
-        else:
-            try:
-                elem_busca = driver.find_element_by_xpath("/html/body/main/div/div/div[2]/h3").text
-            except:
-                elem_busca = ""
-            
-            if elem_busca == 'Não há anúncios que correspondem à sua busca.':
-                print(i + "-" + f + " - " + m + " - " + " - Sem resultado")
-            else:   
-                iter_pages(driver, i, f, m)
-                print(i + "-" + f + " - " + m)
-                
+        if c == None:
             df_lista_precos.at[index, 'status'] = "OK"
             df_lista_precos.to_csv(path + sys.argv[1], index=False)
+            
+        else:
+            url_get = url.format(
+                cidade = c,
+                inicial = i,
+                final = f
+            )
+            driver.get(get_scraperapi_url(url_get))
+
+            body = driver.find_element_by_xpath('/html/body').text
+            
+            if '"type":"Buffer","data":' in body:
+                print("Erro na requisição")
+
+            else:
+                try:
+                    elem_busca = driver.find_element_by_xpath("/html/body/main/div/div/div[2]/h3").text
+                except:
+                    elem_busca = ""
+                
+                if elem_busca == 'Não há anúncios que correspondem à sua busca.':
+                    print(i + "-" + f + " - " + m + " - " + " - Sem resultado")
+                else:   
+                    iter_pages(driver, i, f, m)
+                    print(i + "-" + f + " - " + m)
+                    
+                df_lista_precos.at[index, 'status'] = "OK"
+                df_lista_precos.to_csv(path + sys.argv[1], index=False)
 
     driver.quit()
