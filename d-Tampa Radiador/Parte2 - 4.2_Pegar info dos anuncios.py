@@ -49,8 +49,12 @@ def exec_scrapy(driver, url, d_aux, id_anuncio):
             tempo = str(round(end - start,0))
             aux_carregou += 1
             try:
-                driver.find_element_by_class_name('ui-search-results')
-                aux1 = 'Sou novo'
+                try:
+                    driver.find_element_by_class_name('ui-search-results')
+                    aux1 = 'Sou novo'
+                except:
+                    driver.find_element_by_class_name('ui-empty-state__title').text
+                    aux1 = 'Sou novo'
             except:
                 aux1 = driver.find_element_by_xpath('/html/body/main/div/div/div/div/a[1]/span').text
         except:
