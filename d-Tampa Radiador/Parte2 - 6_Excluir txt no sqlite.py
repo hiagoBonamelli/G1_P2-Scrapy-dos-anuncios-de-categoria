@@ -9,7 +9,7 @@ path = "./4_excluir/"
 lista_txt = os.listdir(path)
 
 for txt in lista_txt:
-    id_anuncio = txt.replace('.txt', '')
+    id_anuncio = "MLB" + txt.replace('.txt', '')
     print(id_anuncio)
 
     sql_delete = '''

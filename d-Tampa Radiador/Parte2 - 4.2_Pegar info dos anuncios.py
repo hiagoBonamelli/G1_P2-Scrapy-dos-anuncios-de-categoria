@@ -78,11 +78,6 @@ def exec_scrapy(driver, url, d_aux, id_anuncio):
         logging.info("Thread %s: finishing - Timed out waiting for response from target.", d_aux)
         return 'FAZER'
     else:
-        try:
-            id_anuncio = driver.find_element_by_xpath('/html/body/main/div/div[4]/div[1]/div/p/span').text.replace('#', '')
-        except:
-            id_anuncio = driver.find_element_by_xpath('/html/body/main/div/div[5]/div[1]/div/p/span').text.replace('#', '')
-        logging.info("id anuncio %s", id_anuncio)
 
         try:
             try:
@@ -124,14 +119,11 @@ def exec_scrapy(driver, url, d_aux, id_anuncio):
 
         try:
             vendas_condicao = driver.find_element_by_xpath("/html/body/main/div/div[3]/div/div[1]/div/div[1]/div/div[1]/div/div[1]").text
-            if vendas_condicao == 'Ver os meios de pagamento':
-                raise Exception('I know Python!')
-            else:
-                condicao = vendas_condicao.split("|")[0].strip()
-                try:
-                    vendas = int(vendas_condicao.split("|")[1].split()[0])
-                except:
-                    vendas = 0
+            condicao = vendas_condicao.split("|")[0].strip()
+            try:
+                vendas = int(vendas_condicao.split("|")[1].split()[0])
+            except:
+                vendas = 0
         except:
             try:
                 vendas_condicao = driver.find_element_by_xpath("/html/body/main/div/div[3]/div/div[1]/div[1]/div/div[1]/div/div[1]").text
@@ -148,6 +140,12 @@ def exec_scrapy(driver, url, d_aux, id_anuncio):
                     vendas = int(vendas_condicao.split("|")[1].split()[0])
                 except:
                     vendas = 0
+
+        if condicao not in ['Novo', 'Usado', 'Recondicionado']:
+            logging.info("Thread %s: finishing - SEM CONDICAO", d_aux)
+            with open("./4_excluir/{}.txt".format(id_anuncio), 'w', encoding = 'utf-8') as f:
+                os.utime(path, None)
+            return 'OK'
 
         # verificar se existe tabela de caracteristicas
         try:
