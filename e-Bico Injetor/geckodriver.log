@@ -48,3 +48,15 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileuvp4gM\\search.json.mozlz4", (void 0)))
 1636933007821	Marionette	INFO	Listening on port 55742
 1636933008317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636933107944	geckodriver	INFO	Listening on 127.0.0.1:55856
+1636933111038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileaffoCW"
+1636933111275	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileaffoCW\\search.json.mozlz4", (void 0)))
+1636933113057	Marionette	INFO	Listening on port 55864
+1636933113099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636933183174	geckodriver	INFO	Listening on 127.0.0.1:55986
+1636933186253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileer7NpP"
+1636933186472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileer7NpP\\search.json.mozlz4", (void 0)))
+1636933188453	Marionette	INFO	Listening on port 55994
+1636933188915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
