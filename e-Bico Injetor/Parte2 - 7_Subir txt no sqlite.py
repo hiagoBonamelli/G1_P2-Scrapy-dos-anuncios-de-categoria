@@ -14,11 +14,6 @@ for txt in lista_txt:
         try:
             data = json.load(fp)
 
-            sql_insert = '''
-            INSERT INTO anuncios (url, titulo, preco, condicao, qtd_vendida, numero_peca, id_anuncio)
-            VALUES (?, ?, ?, ?, ?, ?, ?)
-            '''
-
             sql_update = '''
             UPDATE anuncios
             SET url = ?,
@@ -26,7 +21,9 @@ for txt in lista_txt:
                 preco = ?,
                 condicao = ?,
                 qtd_vendida = ?,
-                marca = ?
+                marca = ?,
+                modelo = ?, 
+                numero_peca = ?
             WHERE id_anuncio = ?
             '''
 
@@ -44,8 +41,8 @@ for txt in lista_txt:
                 data.get('condicao'),
                 data.get('qtd_vendida'),
                 data.get('marca'),
-                # data.get('modelo'),
-                # data.get('numero_peca'),
+                data.get('modelo'),
+                data.get('numero_peca'),
                 id_anuncio
                 )
             )

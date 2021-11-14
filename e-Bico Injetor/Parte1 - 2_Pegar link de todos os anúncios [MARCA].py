@@ -21,8 +21,7 @@ def get_scraperapi_url(url):
 
 # configuracoes iniciais
 # url = "https://lista.mercadolivre.com.br/pecas/carros/injecao/sonda-lambda/{marca}/_DisplayType_LF_PriceRange_{inicial}-{final}"
-# url = "https://lista.mercadolivre.com.br/pecas/carros/motor/radiadores/tampa-radiador/{marca}/_DisplayType_LF_PriceRange_{inicial}-{final}"
-url = "https://lista.mercadolivre.com.br/pecas/carros/injecao/injetores/novo-em-sao-paulo/_DisplayType_LF_PriceRange_100-250_NoIndex_True"
+url = "https://lista.mercadolivre.com.br/pecas/carros/motor/radiadores/tampa-radiador/{marca}/_DisplayType_LF_PriceRange_{inicial}-{final}"
 path_bases = "./2_bases/"
 
 options = Options()

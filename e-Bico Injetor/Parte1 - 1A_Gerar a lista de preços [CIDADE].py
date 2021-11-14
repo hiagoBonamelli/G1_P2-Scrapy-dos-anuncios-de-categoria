@@ -8,22 +8,21 @@ options.headless = False
 driver = webdriver.Firefox(options=options)
 driver.get("https://lista.mercadolivre.com.br/pecas/carros/injecao/injetores/novo/_DisplayType_LF_NoIndex_True")
 
-# pegar marcas
-marcas = driver.find_elements_by_class_name("ui-search-search-modal-filter-name")
-lista_marca_preco = []
-for m in marcas:
-    cidade = m.text
-    print(cidade)
+# pegar cidades
+cidades = driver.find_elements_by_class_name("ui-search-search-modal-filter-name")
+lista_cidades_preco = []
+for m in cidades:
+    print(m.text)
     for i in range(1, 1000):
-        lista_marca_preco.append([i, cidade, "FAZER"])
+        lista_cidades_preco.append([i, m.text, "FAZER"])
 
-df = pd.DataFrame(lista_marca_preco)
-df.columns = ['preco', 'marca', 'status']
-# df.to_csv("1_df_lista_marca_preco.csv", index=False)
+df = pd.DataFrame(lista_cidades_preco)
+df.columns = ['preco', 'cidade', 'status']
+# df.to_csv("lista_cidades_preco.csv", index=False)
 
 
 """ # -------------- ler o df 
-df = pd.read_csv("1_df_lista_marca_preco.csv")
+df = pd.read_csv("lista_cidades_preco.csv")
 df = df[df["status"] != "OK"]
 """
 

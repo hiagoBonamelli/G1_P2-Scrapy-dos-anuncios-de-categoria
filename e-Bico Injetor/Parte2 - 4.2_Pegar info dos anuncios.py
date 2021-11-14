@@ -32,7 +32,7 @@ def get_scraperapi_url(url):
     return proxy_url
 
 
-def exec_scrapy(driver, url, d_aux):
+def exec_scrapy(driver, url, d_aux, id_anuncio):
     logging.info("Thread %s: starting", d_aux)
     path_novo = ("./4_bases_anuncios/")
     time.sleep(1)
@@ -49,8 +49,12 @@ def exec_scrapy(driver, url, d_aux):
             tempo = str(round(end - start,0))
             aux_carregou += 1
             try:
-                driver.find_element_by_class_name('ui-search-results')
-                aux1 = 'Sou novo'
+                try:
+                    driver.find_element_by_class_name('ui-search-results')
+                    aux1 = 'Sou novo'
+                except:
+                    driver.find_element_by_class_name('ui-empty-state__title').text
+                    aux1 = 'Sou novo'
             except:
                 aux1 = driver.find_element_by_xpath('/html/body/main/div/div/div/div/a[1]/span').text
         except:
@@ -67,35 +71,30 @@ def exec_scrapy(driver, url, d_aux):
 
     if aux1 == 'Sou novo':
         logging.info("Thread %s: finishing - SEM RESULTADO", d_aux)
+        with open("./4_excluir/{}.txt".format(id_anuncio), 'w', encoding = 'utf-8') as f:
+            os.utime(path, None)
         return 'OK'
     elif aux1 == 'Timed out waiting for response from target.':
         logging.info("Thread %s: finishing - Timed out waiting for response from target.", d_aux)
         return 'FAZER'
     else:
-        try:
-            id_anuncio = driver.find_element_by_xpath('/html/body/main/div/div[4]/div[1]/div/p/span').text.replace('#', '')
-        except:
-            id_anuncio = driver.find_element_by_xpath('/html/body/main/div/div[5]/div[1]/div/p/span').text.replace('#', '')
-        logging.info("id anuncio %s", id_anuncio)
-
-        #try:
-        #    try:
-        #        try:
-        #            titulo = driver.find_element_by_xpath('//*[@id="root-app"]/div/div[3]/div/div[1]/div/div[1]/div/div[1]/div/div[2]/h1').text
-        #        except:
-        #            titulo = driver.find_element_by_xpath('//*[@id="root-app"]/div/div[3]/div/div[1]/div[1]/div/div[1]/div/div[2]/h1').text
-        #    except:
-        #        titulo = driver.find_element_by_xpath('//*[@id="root-app"]/div/div[3]/div/div[1]/div[1]/div/div[1]/div/div[2]/h1').text
-        #except:
-        #    try:
-        #        titulo = driver.find_element_by_xpath('/html/body/main/div/div[4]/div/div[1]/div/div[1]/div/div[1]/div/div[2]/h1').text
-        #    except:
-        #        titulo = driver.find_element_by_xpath('/html/body/main/div/div[3]/div/div[1]/div/div[1]/div/div[1]/div/div/h1').text
 
         try:
-            titulo = driver.find_element_by_class_name('ui-pdp-title').text
+            try:
+                try:
+                    try:
+                        titulo = driver.find_element_by_xpath('//*[@id="root-app"]/div/div[3]/div/div[1]/div/div[1]/div/div[1]/div/div[2]/h1').text
+                    except:
+                        titulo = driver.find_element_by_xpath('/html/body/main/div/div[3]/div/div[1]/div[1]/div/div[1]/div/div/h1').text
+                except:
+                    titulo = driver.find_element_by_xpath('//*[@id="root-app"]/div/div[3]/div/div[1]/div[1]/div/div[1]/div/div[2]/h1').text
+            except:
+                titulo = driver.find_element_by_xpath('//*[@id="root-app"]/div/div[3]/div/div[1]/div[1]/div/div[1]/div/div[2]/h1').text
         except:
-            pass
+            try:
+                titulo = driver.find_element_by_xpath('/html/body/main/div/div[4]/div/div[1]/div/div[1]/div/div[1]/div/div[2]/h1').text
+            except:
+                titulo = driver.find_element_by_xpath('/html/body/main/div/div[3]/div/div[1]/div/div[1]/div/div[1]/div/div/h1').text
 
 
         try:
@@ -141,6 +140,12 @@ def exec_scrapy(driver, url, d_aux):
                     vendas = int(vendas_condicao.split("|")[1].split()[0])
                 except:
                     vendas = 0
+
+        if condicao not in ['Novo', 'Usado', 'Recondicionado']:
+            logging.info("Thread %s: finishing - SEM CONDICAO", d_aux)
+            with open("./4_excluir/{}.txt".format(id_anuncio), 'w', encoding = 'utf-8') as f:
+                os.utime(path, None)
+            return 'OK'
 
         # verificar se existe tabela de caracteristicas
         try:
@@ -216,11 +221,11 @@ if __name__ == "__main__":
     # ler csv
     rows = pd.read_csv(path + sys.argv[1], index_col=0)
     rows = rows[rows['status'] == 'FAZER']
-    
+
 
     for index, row in rows.iterrows():
         logging.info("Row %s", list(row))
-        retorno_funcao = exec_scrapy(driver, row['url'], sys.argv[2])
+        retorno_funcao = exec_scrapy(driver, row['url'], sys.argv[2], row['id_anuncio'])
         rows.loc[index, 'status'] = retorno_funcao
         rows.to_csv(path + sys.argv[1])
 
