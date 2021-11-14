@@ -11187,3 +11187,16 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1636927745525	Marionette	INFO	Stopped listening on port 60436
 JavaScript error: http://api.scraperapi.com/?api_key=a1f5eae4966a5e0e09ec7d83b2f3819e&url=https%3A%2F%2Fproduto.mercadolivre.com.br%2FMLB-859984536-tampa-reservatorio-partida-fria-peugeot-206-207-307-_JM%23position%3D16%26search_layout%3Dstack%26type%3Ditem%26tracking_id%3De7501a3d-8994-443f-8191-1426dca7a8a0, line 4: NS_ERROR_NOT_INITIALIZED: 
 JavaScript error: https://http2.mlstatic.com/storage/melidata-js-sdk/js/3/0.3.18/melidata.min.js, line 1: TypeError: s.document.location is null
+1636929135042	geckodriver	INFO	Listening on 127.0.0.1:53353
+1636929138107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileNUNJhF"
+1636929138358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileNUNJhF\\search.json.mozlz4", (void 0)))
+1636929140290	Marionette	INFO	Listening on port 53361
+1636929140786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 954 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1636929198851	geckodriver	INFO	Listening on 127.0.0.1:53469
+1636929201913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilelR7ENO"
+1636929202142	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilelR7ENO\\search.json.mozlz4", (void 0)))
+1636929203842	Marionette	INFO	Listening on port 53477
+1636929203963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
