@@ -20,12 +20,11 @@ def get_scraperapi_url(url):
 
 
 # configuracoes iniciais
-url = "https://lista.mercadolivre.com.br/pecas/carros/motor/radiadores/tampa-radiador/{marca}/_DisplayType_LF_PriceRange_{inicial}-{final}"
 url = "https://lista.mercadolivre.com.br/pecas/carros/injecao/injetores/{cidade}/_DisplayType_LF_PriceRange_{inicial}-{final}_NoIndex_True"
 path_bases = "./2_bases/"
 
 options = Options()
-options.headless = True
+options.headless = False
 driver = webdriver.Firefox(options=options)
 driver.get(get_scraperapi_url("https://www.mercadolivre.com.br/"))
 driver.get(get_scraperapi_url("https://www.mercadolivre.com.br/apple-iphone-12-128-gb-branco/p/MLB16163652"))
@@ -36,7 +35,7 @@ driver.find_element_by_xpath('//*[@id="newCookieDisclaimerButton"]').click()
 
 
 # funcao pra pegar os links de uma pagina e salvar um csv
-def get_urls_page(driver, num_page, i, j, m):
+def get_urls_page(driver, num_page, i, j, c):
     lista_urls = []
     num_anuncios = len(driver.find_elements_by_class_name('ui-search-layout__item'))
     
@@ -54,13 +53,13 @@ def get_urls_page(driver, num_page, i, j, m):
         lista_urls.append(url_anuncio)
         
     df = pd.DataFrame({'urls':lista_urls})
-    df.to_csv(path_bases + "df_lista_precos_" + str(m) + '_' + str(i) + "_" + str(j) + "_" + "page_" + str(num_page) + ".csv")
+    df.to_csv(path_bases + "df_lista_precos_" + str(c) + '_' + str(i) + "_" + str(j) + "_" + "page_" + str(num_page) + ".csv")
 
 
 
 
 
-def iter_pages(driver, i, j, m):
+def iter_pages(driver, i, j, c):
     # identificar numero de paginas
     try:
         xpath_num_paginas = "/html/body/main/div/div[1]/section/div[3]/ul/li[2]"
@@ -70,11 +69,11 @@ def iter_pages(driver, i, j, m):
         elem_num_paginas = 0
     
     if elem_num_paginas == 0:
-        get_urls_page(driver, 0, i, j, m)
+        get_urls_page(driver, 0, i, j, c)
         time.sleep(2)
     else:
         for num_page in range(1, int(elem_num_paginas)+1):
-            get_urls_page(driver, num_page, i, j, m)
+            get_urls_page(driver, num_page, i, j, c)
             time.sleep(2)
             if num_page == elem_num_paginas:
                 pass
@@ -145,8 +144,8 @@ while len(df_lista_precos) > 0:
                 if elem_busca == 'Não há anúncios que correspondem à sua busca.':
                     print(i + "-" + f + " - " + m + " - " + " - Sem resultado")
                 else:   
-                    iter_pages(driver, i, f, m)
-                    print(i + "-" + f + " - " + m)
+                    iter_pages(driver, i, f, c)
+                    print(i + "-" + f + " - " + c)
                     
                 df_lista_precos.at[index, 'status'] = "OK"
                 df_lista_precos.to_csv(path + sys.argv[1], index=False)
