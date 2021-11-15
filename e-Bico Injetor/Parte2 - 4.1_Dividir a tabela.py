@@ -2,7 +2,7 @@ import sqlite3
 import numpy as np
 import pandas as pd
 
-database = "db_anuncios_tampa_radiador.db"
+database = "db_anuncios_bico_injetor.db"
 sql = """
 SELECT * 
 FROM anuncios 
