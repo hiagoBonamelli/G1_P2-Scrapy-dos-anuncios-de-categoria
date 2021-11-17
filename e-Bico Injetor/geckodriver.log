@@ -726,3 +726,202 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/Ydwwnsiz0RrvfpNl89r
 1637001328903	Marionette	INFO	Stopped listening on port 53036
 7	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1637001573993	Marionette	INFO	Stopped listening on port 53203
+1637060796829	geckodriver	INFO	Listening on 127.0.0.1:52589
+1637060799863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile4RYhR1"
+1637060800083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile4RYhR1\\search.json.mozlz4", (void 0)))
+1637060801673	Marionette	INFO	Listening on port 52597
+1637060801919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103078554	Marionette	INFO	Stopped listening on port 52597
+3"
+1637060807975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile77cvS3\\search.json.mozlz4", (void 0)))
+1637060809559	Marionette	INFO	Listening on port 52652
+163701637060812225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Fconsole.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103079286	Marionette	INFO	Stopped listening on port 52652
+ror("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilenHht56\\search.json.mozlz4", (void 0)))
+1637060814022	Marionette	INFO	Listening on port 52740
+1637060814262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637061102171	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637062799855	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1637103079835	Marionette	INFO	Stopped listening on port 52740
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103080410	Marionette	INFO	Stopped listening on port 52878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+0840225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilelymqz2"
+1637060840453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No setticonsole.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103080572	Marionette	INFO	Stopped listening on port 53042
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 24944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+g: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103080752	Marionette	INFO	Stopped listening on port 53112
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+d.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103080835	Marionette	INFO	Stopped listening on port 53167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+R_NOT_AVAILABLE
+1637103081022	Marionette	INFO	Stopped listening on port 53241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+d.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103081262	Marionette	INFO	Stopped listening on port 53324
+[Parent 22232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 22232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103081352	Marionette	INFO	Stopped listening on port 53685
+[Parent 18820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+as an invalid readyState of 'interactive'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103081437	Marionette	INFO	Stopped listening on port 53826
+[Parent 25836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 25836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103081658	Marionette	INFO	Stopped listening on port 53974
+[Parent 15580, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15580, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+efault-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103081749	Marionette	INFO	Stopped listening on port 54077
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+eadyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103082014	Marionette	INFO	Stopped listening on port 54171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103082230	Marionette	INFO	Stopped listening on port 54275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 34404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637062788283	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1637103082766	Marionette	INFO	Stopped listening on port 54410
+ole.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103083141	Marionette	INFO	Stopped listening on port 54564
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+jsm: "Error fetching region" (new Erro1637060923720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Locaconsole.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103083355	Marionette	INFO	Stopped listening on port 54678
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+cument has an invalid readyState of 'interactive'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103083479	Marionette	INFO	Stopped listening on port 54805
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9800, IPC I/O Parent] WARNING: file /builds/worker/ch1637103083708	Marionette	INFO	Stopped listening on port 54914
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 36956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ust_mozprofile246RWk"
+1637062471582	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile246RWk\\search.json.mozlz4", (163706247351637062473846	Marionette	INFO	Listeningconsole.warn: SearchSettings: "get: No setticonsole.log: WebExtensions: reset-default-search: starting.console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637103083811	Marionette	INFO	Stopped listening on port 49471637113260806	Marionette	INFO	Stopped listening on port 49512
+[Parent 2936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+t 49542
+[Parent 43036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 43036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:16[Parent 28608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 28608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 28608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+uts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ile /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 35360, IPC I/O Parent] WARNING: file /builds/worker/check[Parent 18368, IPC I/O Parent] WARNING: file /builds/worke[Parent 35360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+PC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+al\\Temp\\rust_mozprofile8wAZGp"
+1637099851519	Marionette	INFO	Marionette enabled
+1637099852969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileqkNMBr"
+1637099853221	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No setticonsole.log: WebExtensions: reset-default-search: starting.cconsole.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637100991063	Marionette	WARN	Ignoring event 'pageshow' beca1637113260896	Marionette	INFO	Stopped listening on port 64442
+[Parent 1776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+_util_win.cc:167
+[Parent 16568, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+38588, IPC I/O Parent] WARNING: file /builds/worker/[Parent 9840, IPC I/O Parent] WARNING: file /builds/worker/chec[Parent 38588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+outs/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l_win.cc:167
+[Parent 17064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+28	Marionette	INFO	Stopped listening on port 6416371[Parent 49800, IPC I/O Parent] WARNING: file /builds/worke[Parent 16660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:16[Parent 50504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Pa[Parent 16660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:16[Parent 50504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+onsole.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Reg1637113260390	Marionette	INFO	Stopped listening on port 64926
+[Parent 52668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 52668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 52668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+il_win[Parent 5[Parent 53340, IPC I/O Parent] WARNING: file /build[Parent 55696, IPC I/O Parent] WARNING: file /builds/worker/checonsole.w[Parent 53340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+le server: NetworkError when attempting to fetch resource.
+[Parent 55696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+process_util_win.cc:167
+ed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resouconsol[Parent 58832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ting to fetch resource.
+[Parent 60188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ilej5lE9l\\search.json.mozlz4", (163710306971637103070171	Marionette	INFO	Listeningconsole.warn: SearchSettings: "get: No setticonsole.log: WebExtensions: reset-default-search: starting.console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637113260403	Marionette	INFO	Stopped listening on port 6373163[Parent 60920, IPC I/O Parent] WARNING: file /builds/worker/[Parent 60672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 60672, IPC I/O Parent] WARNING: file /builds/worker/che[Parent 60920, IPC I/O Parent] WARNING: file /builds/worker/[Parent 60672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+0: Error: Connection is not open.
+ NS_ERROR_NOT_AVAILABLE
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1637113260427	Marionette	INFO	Stopped listening on port 63815
+[Parent 56828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 56828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 56828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+t: No setticonsole.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637107188264	Marionette	WARN	Ignoring event 'pageshow' beca1637107507942	Marionette	WARN	Ignoring event 'pageshow' beca1637113260413	Marionette	INFO	Stopped listening on port 59266
+[Parent 40008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/geck[Parent 20248, IPC I/O Parent] WARNING: file /bui[Parent 40008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+lds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+33400, IPC I/O Parent] WARNING: file /builds/worker/[Parent 45988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 45988, IPC I/O Parent] WARNING: file /builds/worker/che[Parent 33400, IPC I/O Parent] WARNING: file /builds/worker/[Parent 45988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+6552, IPC I/O Parent] WARNING[Parent 30904, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

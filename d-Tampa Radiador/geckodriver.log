@@ -11187,3 +11187,146 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1636927745525	Marionette	INFO	Stopped listening on port 60436
 JavaScript error: http://api.scraperapi.com/?api_key=a1f5eae4966a5e0e09ec7d83b2f3819e&url=https%3A%2F%2Fproduto.mercadolivre.com.br%2FMLB-859984536-tampa-reservatorio-partida-fria-peugeot-206-207-307-_JM%23position%3D16%26search_layout%3Dstack%26type%3Ditem%26tracking_id%3De7501a3d-8994-443f-8191-1426dca7a8a0, line 4: NS_ERROR_NOT_INITIALIZED: 
 JavaScript error: https://http2.mlstatic.com/storage/melidata-js-sdk/js/3/0.3.18/melidata.min.js, line 1: TypeError: s.document.location is null
+1637060628254	geckodriver	INFO	Listening on 127.0.0.1:51430
+1637060631296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilebHCEEk"
+1637060631675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilebHCEEk\\search.json.mozlz4", (void 0)))
+1637060633777	Marionette	INFO	Listening on port 51439
+1637060633980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060820333	Marionette	INFO	Stopped listening on port 51439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilek7f7iP\\search.json.mozlz4", (void 0)))
+1637060640755	Marionette	INFO	Listening on port 51489
+1637060641125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060821029	Marionette	INFO	Stopped listening on port 51489
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilewIF05y"
+1637060644959	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilewIF05y\\search.json.mozlz4", (void 0)))
+1637060646510	Marionette	INFO	Listening on port 51539
+163701637060649495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla F1637060822241	Marionette	INFO	Stopped listening on port 51539
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilefyjpiU\\search.json.mozlz4", (void 0)))
+1637060651197	Marionette	INFO	Listening on port 51581
+1637060651533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060821619	Marionette	INFO	Stopped listening on port 51581
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile1ZHWnz"
+1637060655069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile1ZHWnz\\search.json.mozlz4", (void 0)))
+1637060656563	Marionette	INFO	Listening on port 51636
+1637060656937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060823111	Marionette	INFO	Stopped listening on port 51636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileEW1V0K"
+1637060660886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileEW1V0K\\search.json.mozlz4", (void 0)))
+1637060662406	Marionette	INFO	Listening on port 51708
+1637060662720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060828369	Marionette	INFO	Stopped listening on port 51708
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile0WC8ul\\search.json.mozlz4", (void 0)))
+1637060668648	Marionette	INFO	Listening on port 51778
+1637060668995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060827932	Marionette	INFO	Stopped listening on port 51778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilehWqZcn"
+1637060673870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilehWqZcn\\search.json.mozlz4", (void 0)))
+1637060675374	Marionette	INFO	Listening on port 51849
+1637060675686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060827765	Marionette	INFO	Stopped listening on port 51849
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilepFpoue\\search.json.mozlz4", (void 0)))
+1637060681614	Marionette	INFO	Listening on port 51927
+1637060681919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060827618	Marionette	INFO	Stopped listening on port 51927
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileTJItIv"
+1637060685440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileTJItIv\\search.json.mozlz4", (void 0)))
+1637060686982	Marionette	INFO	Listening on port 51995
+1637060687269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060827450	Marionette	INFO	Stopped listening on port 51995
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileAI6SGZ\\search.json.mozlz4", (void 0)))
+1637060692194	Marionette	INFO	Listening on port 52042
+1637060692499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060827293	Marionette	INFO	Stopped listening on port 52042
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilery9iSX"
+1637060696807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilery9iSX\\search.json.mozlz4", (void 0)))
+1637060698353	Marionette	INFO	Listening on port 52096
+1637060698648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060827125	Marionette	INFO	Stopped listening on port 52096
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilexHxBwQ\\search.json.mozlz4", (void 0)))
+1637060703503	Marionette	INFO	Listening on port 52147
+1637060703828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060826961	Marionette	INFO	Stopped listening on port 52147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilevEQQlK"
+1637060707471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilevEQQlK\\search.json.mozlz4", (void 0)))
+1637060709065	Marionette	INFO	Listening on port 52193
+1637060709314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060826808	Marionette	INFO	Stopped listening on port 52193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilemwElci"
+1637060716124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilemwElci\\search.json.mozlz4", (void 0)))
+1637060717670	Marionette	INFO	Listening on port 52251
+163701637060720343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla F1637060826549	Marionette	INFO	Stopped listening on port 52251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nd: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile2Gpa0T"
+1637060724869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No setti1637060826158	Marionette	INFO	Stopped listening on port 52291
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+1637060825767	Marionette	INFO	Stopped listening on port 52343
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e\\search.json.mozlz4", (void 0)))
+1637060730579	Marionette	INFO	Listening on port 52395
+1637060730830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060825411	Marionette	INFO	Stopped listening on port 52395
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilevkqEcI"
+1637060735048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists,1637060738600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofilev5SgP5"
+1637060738807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No setti1637060825035	Marionette	INFO	Stopped listening on port 52456
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+40385	Marionette	INFO	Listening on port 52497
+1637060740626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637060824617	Marionette	INFO	Stopped listening on port 52497
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
