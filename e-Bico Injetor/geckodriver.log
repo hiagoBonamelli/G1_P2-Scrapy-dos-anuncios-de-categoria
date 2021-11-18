@@ -925,3 +925,265 @@ lds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 33400, IPC I/O Parent] WARNING: file /builds/worker/[Parent 45988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 [Parent 45988, IPC I/O Parent] WARNING: file /builds/worker/che[Parent 33400, IPC I/O Parent] WARNING: file /builds/worker/[Parent 45988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 6552, IPC I/O Parent] WARNING[Parent 30904, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1637153589684	geckodriver	INFO	Listening on 127.0.0.1:52173
+1637153592723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile5VQWn1"
+1637153593355	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile5VQWn1\\search.json.mozlz4", (void 0)))
+1637153595512	Marionette	INFO	Listening on port 52181
+1637153595961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637153673682	Marionette	INFO	Stopped listening on port 52181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileM4uTR8\\search.json.mozlz4", (void 0)))
+1637153601901	Marionette	INFO	Listening on port 52238
+1637153602236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637153674643	Marionette	INFO	Stopped listening on port 52238
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileHWaa5j\\search.json.mozlz4", (void 0)))
+1637153607395	Marionette	INFO	Listening on port 52294
+1637153607686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637153675758	Marionette	INFO	Stopped listening on port 52294
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileSRoovf"
+1637153611869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileSRoovf\\search.json.mozlz4", (void 0)))
+1637153613523	Marionette	INFO	Listening on port 52356
+1637153613676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637153676927	Marionette	INFO	Stopped listening on port 52356
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile8wBNNc\\search.json.mozlz4", (void 0)))
+1637153619739	Marionette	INFO	Listening on port 52423
+1637153619803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637153677959	Marionette	INFO	Stopped listening on port 52423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileNxHzsB\\search.json.mozlz4", (void 0)))
+1637153626744	Marionette	INFO	Listening on port 52553
+1637153626807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637153680197	Marionette	INFO	Stopped listening on port 52553
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileU8PPsP\\search.json.mozlz4", (void 0)))
+1637153661872	Marionette	INFO	Listening on port 53170
+1637153662074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637154232059	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342694	Marionette	INFO	Stopped listening on port 53170
+[Parent 28040, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 28040, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 28040, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+t 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342665	Marionette	INFO	Stopped listening on port 53226
+[Parent 31116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 31116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 31116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+AILABLE
+1637196342670	Marionette	INFO	Stopped listening on port 53381
+[Parent 41004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 41004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 41004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ror Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342673	Marionette	INFO	Stopped listening on port 53562
+[Parent 36900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 36900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ne 0: NS_ERROR_NOT_AVAILABLE
+1637168147934	Marionette	INFO	Stopped listening on port 53663
+\\Temp\\rust_mozprofile7h1Cc1"
+1637153711114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofile7h1Cc1\\search.json.mozlz4", (void 0)))
+1637153712855	Marionette	INFO	Listening on port 53781
+1637153712924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637154232522	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1637154251355	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342654	Marionette	INFO	Stopped listening on port 53781
+[Parent 45916, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 45916, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ne 0: NS_ERROR_NOT_AVAILABLE
+1637167734498	Marionette	INFO	Stopped listening on port 53833
+al\\Temp\\rust_mozprofileOFrH2s"
+1637153722736	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileOFrH2s\\search.json.mozlz4", (void 0)))
+1637153724484	Marionette	INFO	Listening on port 53910
+1637153724531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637154232778	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1637154239633	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342680	Marionette	INFO	Stopped listening on port 53910
+[Parent 23188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+event 'pageshow' because document has an invalid readyState of 'interactive'.
+1637154239558	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342691	Marionette	INFO	Stopped listening on port 54005
+[Parent 52252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 52252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 52252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+arch: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342632	Marionette	INFO	Stopped listening on port 65360
+[Parent 24280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 24280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ne 0: NS_ERROR_NOT_AVAILABLE
+1637167818352	Marionette	INFO	Stopped listening on port 65493
+V"
+1637153764573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hiago\\AppData\\Local\\Temp\\rust_mozprofileRkw4OV\\search.json.mozlz4", (void 0)))
+1637153766604	Marionette	INFO	Listening on port 49405
+1637153766918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342639	Marionette	INFO	Stopped listening on port 49405
+[Parent 4564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342608	Marionette	INFO	Stopped listening on port 49672
+[Parent 57600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 57600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ent has an invalid readyState of 'interactive'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342595	Marionette	INFO	Stopped listening on port 49776
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 50168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342608	Marionette	INFO	Stopped listening on port 49904
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.oneconsole.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342666	Marionette	INFO	Stopped listening on port 50119
+[Parent 12080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637167646404	Marionette	INFO	Stopped listening on port 58874
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+work request failed
+  Stack:
+    fetch/</request.onerror@resource:/console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342618	Marionette	INFO	Stopped listening on port 58965
+[Parent 9620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+arent 16688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:117:16
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637196342585	Marionette	INFO	Stopped listening on port 49742
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 36168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
