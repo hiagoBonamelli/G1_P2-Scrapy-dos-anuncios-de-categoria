@@ -26,7 +26,7 @@ sql_create_anuncios_table = '''CREATE TABLE IF NOT EXISTS anuncios (
 )
 '''
 
-database = "db_anuncios_tampa_radiador.db"
+database = "db_anuncios_lampadas.db"
 conn = sqlite3.connect(database)
 c = conn.cursor()
 c.execute(sql_create_anuncios_table)

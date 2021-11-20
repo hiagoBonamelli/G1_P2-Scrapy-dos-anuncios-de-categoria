@@ -1,7 +1,7 @@
 import sqlite3
 import time
 
-database = "db_anuncios_tampa_radiador.db"
+database = "db_anuncios_lampadas.db"
 sql = "SELECT * FROM anuncios WHERE id_anuncio IS NULL"
 conn = sqlite3.connect(database)
 c = conn.cursor()

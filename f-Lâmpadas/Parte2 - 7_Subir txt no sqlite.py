@@ -2,7 +2,7 @@ import sqlite3
 import json
 import os
 
-database = "db_anuncios_tampa_radiador.db"
+database = "db_anuncios_lampadas.db"
 conn = sqlite3.connect(database)
 c = conn.cursor()
 path = "./4_bases_anuncios/"

@@ -1,7 +1,7 @@
 
 import sqlite3
 import io
-conn = sqlite3.connect('db_anuncios_tampa_radiador.db')  
+conn = sqlite3.connect('db_anuncios_lampadas.db')  
   
 # Open() function 
 with io.open('backupdatabase_dump.sql', 'w') as p: 

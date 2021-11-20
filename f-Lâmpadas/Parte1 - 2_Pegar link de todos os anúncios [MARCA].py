@@ -84,8 +84,14 @@ def iter_pages(driver, i, j, m):
                     except:
                         driver.find_element_by_xpath('/html/body/main/div/div[1]/section/div[3]/ul/li[4]/a').click()
                 except:
-                    driver.refresh()
-                    time.sleep(5)
+                    aux_refresh = 0
+                    while aux_refresh == 0:
+                        try:
+                            driver.refresh()
+                            time.sleep(5)
+                            aux_refresh = 1
+                        except:
+                            pass
             
 
 
@@ -114,7 +120,15 @@ while len(df_lista_precos) > 0:
             inicial = i,
             final = f
         )
-        driver.get(get_scraperapi_url(url_get))
+        
+        # fazer get até dar certo
+        aux_get = 0
+        while aux_get == 0:
+            try:
+                driver.get(get_scraperapi_url(url_get))
+                aux_get = 1
+            except:
+                pass
 
         body = driver.find_element_by_xpath('/html/body').text
         

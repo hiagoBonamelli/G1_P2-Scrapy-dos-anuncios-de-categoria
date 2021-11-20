@@ -2,7 +2,7 @@ import sqlite3
 import json
 import os
 
-database = "db_anuncios_bico_injetor.db"
+database = "db_anuncios_lampadas.db"
 conn = sqlite3.connect(database)
 c = conn.cursor()
 path = "./4_excluir/"
