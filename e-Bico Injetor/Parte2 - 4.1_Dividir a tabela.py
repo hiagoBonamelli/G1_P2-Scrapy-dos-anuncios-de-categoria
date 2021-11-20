@@ -21,7 +21,7 @@ df = pd.read_sql_query(sql, conn)
 print(len(df))
 df['status'] = 'FAZER'
 
-list_df = np.array_split(df, 20)
+list_df = np.array_split(df, 1)
 count = 1
 for df_aux in list_df:
     df_aux.to_csv('./4_lista_df/df' + str(count) + '.csv')

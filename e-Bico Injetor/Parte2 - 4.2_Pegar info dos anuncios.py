@@ -118,7 +118,8 @@ def exec_scrapy(driver, url, d_aux, id_anuncio):
                 
 
         try:
-            vendas_condicao = driver.find_element_by_xpath("/html/body/main/div/div[3]/div/div[1]/div/div[1]/div/div[1]/div/div[1]").text
+            # vendas_condicao = driver.find_element_by_xpath("/html/body/main/div/div[3]/div/div[1]/div/div[1]/div/div[1]/div/div[1]").text
+            vendas_condicao = driver.find_element_by_class_name("ui-pdp-subtitle").text
             condicao = vendas_condicao.split("|")[0].strip()
             try:
                 vendas = int(vendas_condicao.split("|")[1].split()[0])
