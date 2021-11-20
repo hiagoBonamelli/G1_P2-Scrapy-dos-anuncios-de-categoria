@@ -1,0 +1,59 @@
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df1.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df2.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df3.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df4.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df5.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df6.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df7.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df8.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df9.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df10.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df11.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df12.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df13.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df14.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df15.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df16.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df17.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df18.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df19.csv
+
+cd  C:\Users\hiago\GitHub\Angelim\__G1-Anúncios-ML\G1_P2-Scrapy-dos-anuncios-de-categoria\f-Lâmpadas\
+python "Parte1 - 2_Pegar link de todos os anúncios [MARCA].py" df20.csv
