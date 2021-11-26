@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import time
 import sys
+import os
 import pandas as pd
 from urllib.parse import urlencode
 
@@ -106,6 +107,8 @@ df_lista_precos = df_lista_precos[df_lista_precos["status"] != "OK"]
 # marca_selecionada = lista_marca[int(aux_marca)]
 # df_lista_precos = df_lista_precos[df_lista_precos['marca'] == marca_selecionada]
 
+vez = 1
+
 while len(df_lista_precos) > 0:
     df_lista_precos = pd.read_csv(path + sys.argv[1])
     df_lista_precos = df_lista_precos[df_lista_precos["status"] != "OK"]
@@ -150,4 +153,5 @@ while len(df_lista_precos) > 0:
             df_lista_precos.at[index, 'status'] = "OK"
             df_lista_precos.to_csv(path + sys.argv[1], index=False)
 
-    driver.quit()
+driver.quit()
+os.remove(path + sys.argv[1])

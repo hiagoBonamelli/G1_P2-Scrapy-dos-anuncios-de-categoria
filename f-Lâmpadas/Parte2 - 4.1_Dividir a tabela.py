@@ -4,8 +4,12 @@ import pandas as pd
 
 database = "db_anuncios_lampadas.db"
 sql = """
+SELECT * FROM 
+(
 SELECT * 
 FROM anuncios 
+WHERE (id_anuncio IS NOT NULL)
+)
 WHERE (titulo IS NULL) 
 OR (titulo = 'Não tem titulo') 
 OR (preco = 'não tem preço') 
