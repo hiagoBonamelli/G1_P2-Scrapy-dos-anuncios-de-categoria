@@ -73,6 +73,11 @@ def exec_scrapy(driver, url, d_aux, id_anuncio):
         return 'FAZER'
     elif aux1 == 'Timed out waiting for response from target.':
         logging.info("Thread %s: finishing - Timed out waiting for response from target.", d_aux)
+        time.sleep(3)
+        return 'FAZER'
+    elif aux1.startswith('Mercado Livre Brasil'):
+        logging.info("Thread %s: finishing - Timed out waiting for response from target.", d_aux)
+        time.sleep(3)
         return 'FAZER'
     else:
         try:
